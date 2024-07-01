@@ -1,0 +1,21 @@
+Temperature Converter
+This is a simple Java program for converting temperatures between Fahrenheit and Celsius. The user can choose either to convert from Fahrenheit to Celsius or from Celsius to Fahrenheit.
+
+Getting Started
+Prerequisites
+-Java Development Kit (JDK) installed on your machine
+-A Java IDE or text editor
+
+
+Formulas Used in Temperature Converter
+
+#Fahrenheit to Celsius Conversion
+The formula to convert Fahrenheit to Celsius is:
+
+Celsius = (Fahrenheit - 32) *(5/9)
+
+#Celsius to Fahrenheit Conversion
+The formula to convert Celsius to Fahrenheit is:
+
+Fahrenheit = Celsius*1.8 + 32 
+
